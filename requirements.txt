@@ -1,0 +1,9 @@
+# Phase 0-1: no third-party dependencies required (stdlib csv only).
+# Phase 4 (media): add when implemented, e.g.
+#   pytesseract
+#   faster-whisper
+# Phase 5 (retrieval): scikit-learn (TF-IDF)
+scikit-learn
+
+# Dev/test only
+pytest
